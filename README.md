@@ -2,6 +2,8 @@
 
 Aliouache M. 2023
 
+This tool has been developed within the framework of KARMA Project.
+
 Description:
 	This code converts a segments file into a .dxf file to easily import into a flow simulator
 

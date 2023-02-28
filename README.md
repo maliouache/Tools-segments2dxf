@@ -12,7 +12,7 @@ The code requieres matlab core to be installed to work (a standalone application
 The working directory has :	
 - an input file segments.txt
 - a main launch function Main.p
-- The folder DXFlib/ contains all the tools and subfunctions requiered for the run of the main function 
+- the folder DXFlib/ contains all the tools and subfunctions requiered for the run of the main function 
 
 ### Step 1: 
 Prepare the initial DFN to convert by respecting the following format, Tthe DFN is defined by a descritized fractures into segments(please, make sure that all the intersections are defined as a node), the segments are then provided in the segments.txt input file as below:
